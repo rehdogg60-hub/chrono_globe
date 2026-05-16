@@ -1,9 +1,0 @@
-ChronoGlobe: Faith & History Explorer - Usage Note
-
-This release package is prepared for static web distribution through Ko-fi, GitHub Pages, itch.io, or similar static hosting platforms.
-
-Unless a separate license is provided by the publisher, the ChronoGlobe game content, compiled application, event text, and visual presentation are intended for use and distribution by the project owner.
-
-Open-source libraries included in the compiled web build remain governed by their own licenses. See CREDITS.md for major open-source components.
-
-Educational content note: event summaries and references are concise overview text. Review before commercial publication if exact academic, denominational, or legal wording is required.
